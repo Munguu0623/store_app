@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nameSector": "УИД",
+    "locationKey": "001/01"
+  },
+  {
+    "id": 2,
+    "nameSector": "УИД электрон төрөлжсөн дэлгүүр",
+    "locationKey": "002/02"
+  },
+  {
+    "id": 3,
+    "nameSector": "НИД",
+    "locationKey": "003/03"
+  },
+  {
+    "id": 4,
+    "nameSector": "НИД Электроны төрөлжсөн дэлгүүр",
+    "locationKey": "004/04"
+  },
+  {
+    "id": 5,
+    "nameSector": "ХМ УИД",
+    "locationKey": "005/05"
+  },
+  {
+    "id": 6,
+    "nameSector": "ХМ Плаза",
+    "locationKey": "006/06"
+  },
+  {
+    "id": 7,
+    "nameSector": "13 хороолол Электроны төрөлжсөн дэлгүүр",
+    "locationKey": "FK007/07"
+  },
+  {
+    "id": 8,
+    "nameSector": "УИД",
+    "locationKey": "008/01"
+  },
+  {
+    "id": 9,
+    "nameSector": "УИД электрон төрөлжсөн дэлгүүр",
+    "locationKey": "002/02"
+  },
+  {
+    "id": 10,
+    "nameSector": "НИД",
+    "locationKey": "003/03"
+  },
+  {
+    "id": 11,
+    "nameSector": "НИД Электроны төрөлжсөн дэлгүүр",
+    "locationKey": "004/04"
+  },
+  {
+    "id": 12,
+    "nameSector": "ХМ УИД",
+    "locationKey": "005/05"
+  },
+  {
+    "id": 13,
+    "nameSector": "ХМ Плаза",
+    "locationKey": "006/06"
+  },
+  {
+    "id": 14,
+    "nameSector": "13 хороолол Электроны төрөлжсөн дэлгүүр",
+    "locationKey": "FK007/07"
+  }
+]
